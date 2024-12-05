@@ -3,7 +3,7 @@ import random
 from imutils import paths
 
 # Configuraciones y rutas
-dataset_dir = 'C:/Users/ferik/Desktop/ProyectoU4/images/dataset'
+dataset_dir = 'C:/Users/ferik/Desktop/ProyectoU4/images/alter'
 train_txt = 'C:/Users/ferik/Desktop/ProyectoU4/data/train.txt'
 test_txt = 'C:/Users/ferik/Desktop/ProyectoU4/data/test.txt'
 

@@ -1,0 +1,2 @@
+0 128 8 68 68
+Clase: hombre

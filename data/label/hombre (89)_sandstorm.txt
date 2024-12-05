@@ -1,0 +1,2 @@
+0 52 17 63 63
+Clase: hombre
